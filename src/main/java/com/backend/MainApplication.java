@@ -13,7 +13,7 @@ import java.util.List;
 
 @SpringBootApplication
 public class MainApplication {
-//From local
+
 	public static void main(String[] args) {
 		SpringApplication.run(MainApplication.class, args);
 	}
