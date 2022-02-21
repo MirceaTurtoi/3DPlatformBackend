@@ -17,7 +17,7 @@ public class MainApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MainApplication.class, args);
 	}
-// Hello World
+// From REMOTE
 	@Bean
 	CommandLineRunner commandLineRunner(BuildingRepository buildingRepository, UrlRepository urlRepository){
 		return arg -> {
