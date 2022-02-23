@@ -3,7 +3,9 @@ Backend for a 3D Platform application.
 ## Technologies
 * Java
 * Spring Boot
-* Tomcat
+* Spring REST
+* Spring Data JPA
+* Apache Tomcat
 * Maven
 * PostreSQL
-* Spring Data JPA with Hibernate
+* Git
