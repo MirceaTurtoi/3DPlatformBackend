@@ -1,4 +1,4 @@
-package com.backend.exceptions;
+package com.platfrom3d.exceptions;
 
 public class ApiRequestException extends RuntimeException{
 
