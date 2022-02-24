@@ -1,7 +1,7 @@
-package com.backend;
+package com.platfrom3d;
 
-import com.backend.buildings.Building;
-import com.backend.urls.Url;
+import com.platfrom3d.buildings.Building;
+import com.platfrom3d.urls.Url;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

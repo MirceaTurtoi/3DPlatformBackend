@@ -8,8 +8,8 @@
 		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com</groupId>
-	<artifactId>backend</artifactId>
+	<groupId>com.platform3d</groupId>
+	<artifactId>platform3d</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>backend</name>
 	<description>Backend for 3D Platform application</description>

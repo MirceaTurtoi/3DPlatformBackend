@@ -1,9 +1,9 @@
-package com.backend;
+package com.platfrom3d;
 
-import com.backend.buildings.BuildingRepository;
-import com.backend.urls.UrlRepository;
-import com.backend.buildings.Building;
-import com.backend.urls.Url;
+import com.platfrom3d.buildings.BuildingRepository;
+import com.platfrom3d.urls.UrlRepository;
+import com.platfrom3d.buildings.Building;
+import com.platfrom3d.urls.Url;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

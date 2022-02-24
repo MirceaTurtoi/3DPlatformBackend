@@ -1,6 +1,6 @@
-package com.backend.buildings;
+package com.platfrom3d.buildings;
 
-import com.backend.urls.Url;
+import com.platfrom3d.urls.Url;
 
 import javax.persistence.*;
 import java.util.Set;

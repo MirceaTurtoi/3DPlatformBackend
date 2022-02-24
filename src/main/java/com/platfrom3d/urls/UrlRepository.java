@@ -1,4 +1,4 @@
-package com.backend.urls;
+package com.platfrom3d.urls;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
